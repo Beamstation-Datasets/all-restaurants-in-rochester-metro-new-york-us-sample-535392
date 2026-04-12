@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Regional restaurant data for the Rochester (Metro), New York metropolitan area, spanning Rochester. Spans multiple municipalities within one of the largest metropolitan dining markets. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Rochester (Metro), New York, US",
+  "export_job_id": "a04c6677-2fd0-4ece-81e0-2886bfa22a43",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 535392,
+  "location_name": "Rochester, NY",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-rochester-metro-new-york-us-sample-535392",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/535392/beamstation_535392_restaurants-us-rochesterny_SAMPLE_DIST.csv",
+  "sample_pct": 9.9,
+  "sample_records": 70,
+  "sample_sha256": "9c481bc7f125dde2e07eca6e9dc5f0ae2d16b3477638f773d28af577a3998532",
+  "sample_size_bytes": 268530,
+  "total_records": 707,
+  "updated_at": "2026-04-07T11:57:35.643891+00:00"
+}
